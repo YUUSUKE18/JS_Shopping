@@ -94,8 +94,6 @@ header nav ul .cart-count {
   color: rgb(45, 141, 185);
   background: transparent;
   border: 2px solid rgb(45, 141, 185);
-  transition: ease-in;
-  transition: 0.3s;
 }
 
 @media (max-width: 767px) {
